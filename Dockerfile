@@ -63,7 +63,7 @@ RUN \
 	dcron \
  && apk add --no-cache \
 	--repository "http://nl.alpinelinux.org/alpine/edge/main" \
-	libressl2.5-libssl \
+	libressl2.7-libssl \
  && apk add --no-cache \
 	--repository "http://nl.alpinelinux.org/alpine/edge/testing" \
 	deluge
