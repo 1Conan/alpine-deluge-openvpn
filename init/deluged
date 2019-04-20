@@ -15,7 +15,7 @@ user_name="deluge"
 user_group="media"
 
 pkg_name="deluged"
-pkg_arch="x86_64"
+pkg_arch="aarch64"
 pkg_repo="http://nl.alpinelinux.org/alpine/edge/testing"
 
 command_file="/usr/bin/deluged"
