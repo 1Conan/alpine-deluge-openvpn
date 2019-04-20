@@ -64,6 +64,7 @@ RUN \
  && apk add --no-cache \
 	--repository "http://nl.alpinelinux.org/alpine/edge/main" \
 	libressl2.7-libssl \
+	boost-libs \
  && apk add --no-cache \
 	--repository "http://nl.alpinelinux.org/alpine/edge/testing" \
 	deluge
