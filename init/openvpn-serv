@@ -14,7 +14,7 @@ user_name="deluge"
 user_group="media"
 
 pkg_name="openvpn"
-pkg_arch="x86_64"
+pkg_arch="aarch64"
 pkg_repo="http://nl.alpinelinux.org/alpine/v3.5/main"
 
 command_file="/usr/sbin/openvpn"
